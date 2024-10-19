@@ -1,0 +1,15 @@
+{
+  "name": "jp.koturn.vrcheartrate",
+  "version": "1.0.0",
+  "displayName": "VRCHeartrate",
+  "description": "Simple heartrate display shader for VRChat.",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/koturn/VRCHeartrate",
+  "licensesUrl": "https://github.com/koturn/VRCHeartrate/blob/v1.0.0/LICENSE",
+  "license": "MIT",
+  "keywords": ["VRChat", "Shader", "Billboard", "Modular Avatar"],
+  "url" : "https://github.com/koturn/VRCHeartrate/releases/download/v1.0.0/jp.koturn.vrcheartrate-1.0.0.zip",
+  "legacyFolders" : {
+    "Assets\\koturn\\VRCHeartrate" : "979bdf3d75f2b95428af293e1c5952fb"
+  }
+}

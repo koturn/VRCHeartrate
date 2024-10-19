@@ -1,0 +1,13 @@
+{
+  "Packages": [
+    {
+      "UnityPackageName": "VRCHeartrate.unitypackage",
+      "VpmName": "jp.koturn.vrcheartrate",
+      "Assets": [
+        {
+          "BasePath": "Assets/koturn/VRCHeartrate"
+        }
+      ]
+    }
+  ]
+}
